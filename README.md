@@ -14,15 +14,13 @@
 
 **Dependencies in Python**
 
-1. Chech requirements.txt
+1. Check requirements.txt
 
 **Install package/module in Python**
 
 1. Open terminal and use command:
 
-   'pip install package_name'
-
-   
+   [pip install package_name]
 
 2. [User Guide from here](https://datatofish.com/install-package-python-using-pip/)
 
@@ -30,6 +28,4 @@
 
 1. Run the code by typing the command below in your terminal:
 
-   python stepv5.py
-
-
+   [python stepv5.py]
